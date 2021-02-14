@@ -1,4 +1,4 @@
-<h1 align="center">Zero Hour Sound Overhaul Mod (ZHSOM) </h1>
+<h1 align="center">Zero Hour Sound Overhaul Mod (ZHSOM) - Data Repository </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/MAINTAINED-YES-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge">
@@ -10,23 +10,10 @@
 [![ZHSOM](https://raw.githubusercontent.com/VaughnValle/demo/master/zhsom_header.png "ZHSOM Header")](https://store.steampowered.com/app/1359090/Zero_Hour)
 
 ## Table of Contents 
-- [Installation](#installation)
 - [Mod Feature List](#mod-feature-list)
   - [Weapon SFX](#weapon-sfx)
   - [Grenade SFX](#grenade-sfx)
   - [Other Miscellaneous SFX](#other-miscellaneous-sfx)
-
-## Installation
-
-This guide is for the latest ZHSOM build **1.0.0 release and later**.
-
-> Latest release: **1.0.0** (February 14, 2021)
-
-1. [Download this repository](https://github.com/VaughnValle/zhsom/archive/main.zip) as ZIP 
-2. Extract the downloaded ZIP file to a folder using WinRAR, 7Zip, or the like
-3. Copy `sounds.resource`, `sharedassets2.assets`, and `resources.assets` into your ***Zero Hour/Zero Hour_Data*** folder.
-4. Overwrite the duplicate of the copied files.
-5. Enjoy! :)
 
 ## Mod Feature List
 
